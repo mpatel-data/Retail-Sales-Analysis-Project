@@ -95,5 +95,5 @@ This project demonstrates how Python can be used for data cleaning and explorato
 
 ## Dashboard Preview
 
-![Power BI Dashboard](images/dashboard.png)
+![Power BI Dashboard](Retail-Sales-Analysis/images/dashboard.PNG)
 
