@@ -54,16 +54,19 @@ Python was used to:
 * Analyse profitability by category
 * Export the cleaned dataset for Power BI
 
-## Power BI Dashboard
+## Power BI Dashboards
 
-The Power BI dashboard provides an interactive view of:
+The Power BI dashboards provides an interactive view of:
 
 * Total Sales
 * Total Profit
 * Profit Margin
 * Sales by Region
+* Profits by Region
 * Sales Trends
+* Profit Trends
 * Top Products
+* Sales by Category
 * Profit by Category
 
 ## Conclusion
@@ -72,5 +75,5 @@ This project demonstrates how Python can be used for data cleaning and explorato
 
 ## Dashboard Preview
 
-![Power BI Dashboard](Retail-Sales-Analysis/images/dashboard.PNG)
-
+![Power BI Dashboard](Retail-Sales-Analysis/images/sales_dashboard.PNG)
+![Power BI Dashboard](Retail-Sales-Analysis/images/profits_dashboard.PNG)
